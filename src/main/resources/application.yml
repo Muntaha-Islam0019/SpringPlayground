@@ -1,5 +1,11 @@
 server:
-    port: 8080
+  port: 8080
 spring:
-    application:
-        name: springplayground
+  application:
+    name: springplayground
+
+logging:
+  level:
+    root: INFO
+  pattern:
+    console: "%d{HH:mm:ss} [%X{requestId}] %-5level %logger{36} - %msg%n"
