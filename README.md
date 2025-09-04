@@ -47,7 +47,7 @@ The goal: gain practical, job-ready experience with the tools and patterns commo
 ## How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/springplayground.git
+git clone https://github.com/Muntaha-Islam0019/springplayground.git
 cd springplayground
 
 # Run with Maven wrapper
